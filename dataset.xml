@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+	<CUSTOMER 	cust_id=1
+				firstName='Alju'
+				lastName="Hara"
+				age=30 />
+				
+	<CUSTOMER 	cust_id=2
+				firstName='Hudini'
+				lastName="Hudara"
+				age=67 />
+				
+	<CUSTOMER 	cust_id=3
+				firstName='Birgitte'
+				lastName="Abel"
+				age=35 />
+</dataset>
